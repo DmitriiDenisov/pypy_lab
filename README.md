@@ -10,7 +10,7 @@ https://youtu.be/1n9KMqssn54
 3. Run from bin/pypy3
 
 ### Perfomance:
-Run test_1.py, test_2.py, test_3.py files with CPython and Pypy for comparison.
+Run test_1.py, test_2.py, test_3.py files with CPython and Pypy for comparison. Basically Pypy is ~2 times fater than CPython
 
 ### Useful commands:
 
