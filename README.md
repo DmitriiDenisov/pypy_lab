@@ -1,9 +1,16 @@
 # pypy_lab
 
+### What is pypy?
+https://youtu.be/1n9KMqssn54
+
+
 ### Installation:
 1. Download https://pypy.org/download.html
 2. Unzip it
 3. Run from bin/pypy3
+
+### Perfomance:
+Run test_1.py, test_2.py, test_3.py files with CPython and Pypy for comparison.
 
 ### Useful commands:
 
