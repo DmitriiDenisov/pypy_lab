@@ -24,6 +24,10 @@ Install packages:
 If error with sklearn try: 
 ```bin/pypy3 -m pip install --upgrade cython```
 
+Create alias:
+In folder: (usually in folder with binaries: /usr/bin/), ```sudo ln -s {path_to_executable} {name_of_alias}```
+for example ```sudo ln -s /home/dmitryhse/.local/bin/pypy3 pypy3```
+
 
 ### List of supported packages for pypy:
 http://packages.pypy.org/##numpy
